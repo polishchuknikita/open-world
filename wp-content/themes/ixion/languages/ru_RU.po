@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ixion v10.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-03-21 14:00+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ixion
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Это страница не может быть найдена."
+
+# @ ixion
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+# @ ixion
+#: archive-jetpack-testimonial.php:21 inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "Отзывы"
+
+# @ ixion
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ ixion
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ ixion
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ ixion
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ ixion
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ ixion
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+# @ ixion
+#: components/features/recent-posts/recent-posts.php:22
+msgid "More Posts"
+msgstr "Больше записей"
+
+# @ ixion
+#: components/features/recent-posts/recent-posts.php:22
+msgid "&rarr;"
+msgstr ""
+
+# @ ixion
+#: components/features/testimonials/content-testimonials.php:24
+msgid "Edit"
+msgstr "Изменить"
+
+# @ ixion
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ ixion
+#: components/page/content-page.php:18 components/post/content.php:43
+msgid "Pages:"
+msgstr "Страница:"
+
+# @ ixion
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: components/page/content-page.php:28 components/post/content-meta.php:6
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+# @ ixion
+#: components/post/content-author.php:28
+#, php-format
+msgid "Published by %s"
+msgstr "Автор %s"
+
+# @ ixion
+#: components/post/content-author.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи %s"
+
+# @ ixion
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ ixion
+#: components/post/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ ixion
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по условиям поиска. Попробуйте, использовать другие ключевые слова."
+
+# @ ixion
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поможет новый поиск."
+
+# @ ixion
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+# @ ixion
+#: functions.php:51
+msgid "Header"
+msgstr "Шапка сайта"
+
+# @ ixion
+#: functions.php:117
+msgid "Sidebar"
+msgstr ""
+
+# @ ixion
+#: functions.php:127
+msgid "Footer 1"
+msgstr ""
+
+# @ ixion
+#: functions.php:137
+msgid "Footer 2"
+msgstr ""
+
+# @ ixion
+#: functions.php:147
+msgid "Footer 3"
+msgstr ""
+
+# @ ixion
+#: functions.php:157
+msgid "Footer 4"
+msgstr ""
+
+# @ ixion
+#: functions.php:178
+msgctxt "Archivo Narrow font: on or off"
+msgid "on"
+msgstr ""
+
+# @ ixion
+#: functions.php:207
+msgctxt "Cooper Hewitt font: on or off"
+msgid "on"
+msgstr ""
+
+# @ ixion
+#. translators: %s: Name of current post
+#: functions.php:251
+#, php-format
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+# @ ixion
+#: header.php:25
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ ixion
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ ixion
+#: inc/customizer.php:32
+msgid "Call-to-Action Button Text"
+msgstr ""
+
+# @ ixion
+#: inc/customizer.php:43
+msgid "Call-to-Action Button URL"
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:82
+#, php-format
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Jetpack плагин"
+
+# @ ixion
+#: inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+# @ ixion
+#: inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "Рекомендуемый контент"
+
+# @ ixion
+#: inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "Социальные кнопки"
+
+# @ ixion
+#: inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "Меню"
+
+# @ ixion
+#: inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "Портфолио"
+
+# @ ixion
+#: inc/plugin-enhancements.php:169
+msgid "Content Options"
+msgstr "Настройки контента"
+
+# @ ixion
+#: inc/plugin-enhancements.php:187
+msgid "no specific module needed"
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:188
+msgid "Custom Content Types module"
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:265
+#, php-format
+msgid " Please activate %1$s. %2$s"
+msgstr "Пожалуйста, активируйте %1$s. %2$s"
+
+# @ ixion
+#: inc/plugin-enhancements.php:267
+msgid "Activate"
+msgstr "Активировать"
+
+# @ ixion
+#: inc/plugin-enhancements.php:275
+#, php-format
+msgid " Please install %1$s. %2$s"
+msgstr "Пожалуйста, установите %1$s. %2$s"
+
+# @ ixion
+#: inc/plugin-enhancements.php:277
+msgid "Install"
+msgstr "Установить"
+
+# @ ixion
+#: inc/plugin-enhancements.php:302
+#, php-format
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:398
+msgid "Your request failed permission check."
+msgstr ""
+
+# @ ixion
+#: inc/plugin-enhancements.php:405
+msgid "Your request was processed. See ya!"
+msgstr "Ваш запрос успешно обработан!"
+
+# @ ixion
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:33 inc/template-tags.php:53
+msgid ", "
+msgstr ""
+
+# @ ixion
+#: inc/template-tags.php:35
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+# @ ixion
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgid "Tagged"
+msgstr "Метки"
+
+# @ ixion
+#: inc/template-tags.php:58
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+# @ ixion
+#: inc/template-tags.php:58
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+# @ ixion
+#: inc/template-tags.php:58
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ ixion
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+# @ ixion
+#: searchform.php:11 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для: "
+
+# @ ixion
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+# @ ixion
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
